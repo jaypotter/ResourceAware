@@ -4,8 +4,8 @@
     "type": "metapackage",
     "require": {
         "php": "^8.3",
-        "potter/resource-aware-interface": "dev-main",
-        "potter/resource-aware-trait": "dev-main"
+        "potter/resource-aware-interface": "v0.0.1-alpha@alpha",
+        "potter/resource-aware-trait": "v0.0.1-alpha@alpha"
     },
     "license": "MIT",
     "authors": [
@@ -14,5 +14,5 @@
             "email": "j@ypotter.ca"
         }
     ],
-    "minimum-stability": "dev"
+    "minimum-stability": "alpha"
 }
